@@ -1,1 +1,2 @@
 i changed the title from Apro-Tech to a camelCase apro-Tech 
+i changed the button text from read more to find more 
